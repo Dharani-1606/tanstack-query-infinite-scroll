@@ -48,18 +48,18 @@ html {
   margin: auto;
 }
 
-table {
+.todo-blk table {
   border: 1px solid lightgray;
 }
 
-tbody {
+.todo-blk tbody {
   border-bottom: 1px solid lightgray;
 }
-tbody tr{
+.todo-blk tbody tr{
   text-align: center;
 }
 
-th {
+.todo-blk th {
   border-bottom: 1px solid lightgray;
   border-right: 1px solid lightgray;
   padding: 2px 4px;
@@ -67,11 +67,11 @@ th {
   max-width: 250px;
 }
 
-tfoot {
+.todo-blk tfoot {
   color: gray;
 }
 
-tfoot th {
+.todo-blk tfoot th {
   font-weight: normal;
 }
 /* end of table style */

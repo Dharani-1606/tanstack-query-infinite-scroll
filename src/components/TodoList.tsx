@@ -80,7 +80,7 @@ const TodoList: React.FC<PostProps> = () => {
   }
 
   return (
-    <section className='posts-blk'>
+    <section className='todo-blk'>
       <h2>Todo list</h2>
       <table>
         <thead>
